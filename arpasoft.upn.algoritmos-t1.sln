@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta2", "Pregunta2", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arpasoft.upn.algoritmos-t1.preg-2", "arpasoft.upn.algoritmos-t1.preg-2\arpasoft.upn.algoritmos-t1.preg-2.csproj", "{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta3", "Pregunta3", "{32A32BFB-4A74-4952-8AA7-FF841243CCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arpasoft.upn.algoritmos-t1.preg-3", "arpasoft.upn.algoritmos-t1.preg-3\arpasoft.upn.algoritmos-t1.preg-3.csproj", "{F3D095BD-A999-4EC2-A3F6-C60684EF8E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D095BD-A999-4EC2-A3F6-C60684EF8E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D095BD-A999-4EC2-A3F6-C60684EF8E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D095BD-A999-4EC2-A3F6-C60684EF8E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D095BD-A999-4EC2-A3F6-C60684EF8E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3} = {43B6A0C9-F404-4D0C-9221-A4CBB2F716D7}
+		{F3D095BD-A999-4EC2-A3F6-C60684EF8E18} = {32A32BFB-4A74-4952-8AA7-FF841243CCAC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CD87CD6-09DF-458D-AD11-0F159C11578E}
