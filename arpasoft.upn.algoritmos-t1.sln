@@ -3,9 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta2", "Pregunta2", "{43B6A0C9-F404-4D0C-9221-A4CBB2F716D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arpasoft.upn.algoritmos-t1.preg-2", "arpasoft.upn.algoritmos-t1.preg-2\arpasoft.upn.algoritmos-t1.preg-2.csproj", "{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2738B0D5-C44C-4FCC-9291-7FD47735AEB3} = {43B6A0C9-F404-4D0C-9221-A4CBB2F716D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CD87CD6-09DF-458D-AD11-0F159C11578E}
